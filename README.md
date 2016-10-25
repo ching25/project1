@@ -1,2 +1,2 @@
 # project1
-sample repository
+this project is a test by ching
